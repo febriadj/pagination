@@ -1,0 +1,24 @@
+{
+  "name": "client-side-pagination",
+  "version": "1.0.0",
+  "description": "pagination client side",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febriadj/pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "clients-side",
+    "reactjs"
+  ],
+  "author": "febriadji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febriadj/pagination/issues"
+  },
+  "homepage": "https://github.com/febriadj/pagination#readme"
+}
