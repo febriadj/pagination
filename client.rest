@@ -1,0 +1,13 @@
+GET http://localhost:8000/api/movies?page=3&limit=2
+Content-Type: application/json
+
+###
+
+POST http://localhost:8000/api/movies
+Content-Type: application/json
+
+{
+  "title": "harry potter and the deathly hallows",
+  "genre": ["fantasy", "action", "drama"],
+  "rating": 9.50
+}
